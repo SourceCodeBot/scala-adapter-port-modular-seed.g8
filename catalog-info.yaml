@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: scala-adapter-port-modular-seed.g8
+  annotations:
+    github.com/project-slug: SourceCodeBot/scala-adapter-port-modular-seed.g8
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
